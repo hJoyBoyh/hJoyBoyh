@@ -92,7 +92,7 @@ Worked on an operational service platform connecting customer requests with clea
 
 ## A note about my activity
 
-> Most of my day-to-day development happens in **private GitLab repositories** and client projects. This GitHub profile is a curated view of work I can share publicly — not a complete record of everything I build.
+> Most of my day-to-day development happens in **private GitLab repositories** and client projects. This GitHub profile is a curated view of work I can share publicly, not a complete record of everything I build.
 
 ---
 
