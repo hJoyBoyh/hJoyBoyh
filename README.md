@@ -20,7 +20,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Montr%C3%A9al-Qu%C3%A9bec-172554?style=flat-square&logo=googlemaps&logoColor=white" alt="Montréal, Québec" />
-    <img src="https://img.shields.io/badge/Software%20Engineering-%C3%89TS-172554?style=flat-square" alt="Software Engineering at ÉTS" />
+    <!-- <img src="https://img.shields.io/badge/Software%20Engineering-%C3%89TS-172554?style=flat-square" alt="Software Engineering at ÉTS" /> -->
     <img src="https://img.shields.io/badge/Building-Full--stack%20%26%20AI-172554?style=flat-square" alt="Focused on full-stack development and AI" />
   </p>
 
