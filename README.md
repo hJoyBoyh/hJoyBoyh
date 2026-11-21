@@ -1,10 +1,7 @@
 <!--
   GITHUB PROFILE README
-  Before publishing, replace:
-  - YOUR_GITLAB_USERNAME
-  GitHub username: hJoyBoyh (already configured)
-  - YOUR_LINKEDIN_HANDLE
-  If you do not want one of these public links, remove that badge entirely.
+  GitHub username: hJoyBoyh
+  Before publishing, verify that your GitLab and LinkedIn links are correct.
 -->
 
 <div align="center">
@@ -49,26 +46,47 @@ I enjoy the full process: understanding a problem, making trade-offs, shipping a
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,react,nodejs,express,postgres,supabase,python,docker,git,gitlab,github,figma&perline=8&theme=dark"
-    alt="TypeScript, JavaScript, Vue, Nuxt, Tailwind CSS, React, Node.js, Express, PostgreSQL, Supabase, Python, Docker, Git, GitLab, GitHub, Figma"
+    src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,react,nodejs,express,postgres,supabase,python,aws,terraform,docker,gitlab,github&perline=8&theme=dark"
+    alt="TypeScript, JavaScript, Vue, Nuxt, Tailwind CSS, React, Node.js, Express, PostgreSQL, Supabase, Python, AWS, Terraform, Docker, GitLab, GitHub"
   />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=git,figma&perline=8&theme=dark"
+    alt="Git and Figma"
+  />
+  <br />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=flat-square" alt="Model Context Protocol (MCP)" />
 </div>
 
-**Frontend:** Vue 3 · Nuxt · TypeScript · Tailwind CSS · Accessible UI · Design systems
+**Frontend & UI:** Vue 3 · Nuxt · TypeScript · JavaScript · React · Tailwind CSS · Accessible UI · Design systems
 
-**Backend & data:** Node.js · Express · REST APIs · PostgreSQL · Supabase
+**Backend & data:** Node.js · Express · Python · REST APIs · PostgreSQL · Supabase · API integrations
 
-**Tooling & delivery:** Git · GitLab CI/CD · Docker · Vitest · Playwright · Storybook
+**Cloud & infrastructure:** AWS · Terraform · Docker · GitLab CI/CD · CI/CD pipelines
 
-**Additional areas:** Python · Infrastructure · Applied AI
+**AI engineering & automation:** AWS Bedrock · Claude Code · OpenAI API · Anthropic API · Model Context Protocol (MCP) · LLM integrations · AI-powered workflows
+
+**Testing & tooling:** Git · GitHub · GitLab · Vitest · Playwright · Storybook · Figma
 
 ## What I've worked on
 
-### Loto-Québec · Software development
+### Loto-Québec · Software Development & AI Engineering
 
-Production web interfaces, reusable UI components, and design-system work. My contributions focus on maintainability, accessibility, consistent user experiences, and performance.
+**Software Developer**
 
-`Nuxt` `Vue` `TypeScript` `Storybook` `Testing` `Accessibility`
+Contributing to the engineering and delivery of production software, from web applications and shared design-system components to developer tooling and workflow improvements. My work includes performance and SEO optimization, accessibility, testing, refactoring, and technical collaboration to build maintainable, reliable solutions.
+
+`Nuxt` `Vue` `TypeScript` `Design Systems` `Storybook` `Testing` `Accessibility` `SEO` `Developer Tooling`
+
+**AI Software Engineering**
+
+Joining an AI-focused engineering team to prototype and integrate AI-powered solutions, connect large language models with tools and enterprise workflows, and evaluate implementations for security, performance, and maintainability. The role involves technologies such as AWS Bedrock, Claude Code, and Model Context Protocol (MCP).
+
+`AI Engineering` `AWS Bedrock` `LLMs` `MCP` `Claude Code` `Prototyping`
 
 ### Northlify · Co-founder & developer
 
@@ -86,8 +104,8 @@ Worked on an operational service platform connecting customer requests with clea
 
 - **Full-stack development:** intuitive interfaces, well-structured APIs, and reliable data flows.
 - **Backend & automation:** service integrations, database-backed applications, and streamlined business workflows.
-- **Infrastructure & delivery:** Docker, CI/CD pipelines, and maintainable development workflows.
-- **Applied AI:** practical prototypes and product ideas that emphasize usefulness and measurable outcomes.
+- **Infrastructure & delivery:** AWS, Docker, Terraform, CI/CD pipelines, and maintainable development workflows.
+- **Applied AI:** LLM-powered applications, AWS Bedrock, tool integrations through MCP, and practical product solutions.
 - **Hackathons:** rapid prototyping and collaborative problem-solving across multiple events.
 
 ## A note about my activity
