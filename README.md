@@ -28,10 +28,10 @@
     <a href="https://github.com/hJoyBoyh">
       <img src="https://img.shields.io/badge/GitHub-hJoyBoyh-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub hJoyBoyh" />
     </a>
-    <a href="https://gitlab.com/YOUR_GITLAB_USERNAME">
+    <a href="https://gitlab.com/hJoyBoyh">
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">
+    <a href="https://www.linkedin.com/in/kenny-rigaud/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
